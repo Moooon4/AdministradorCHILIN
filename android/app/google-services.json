@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "543987647187",
+    "project_id": "pupuseriachilin",
+    "storage_bucket": "pupuseriachilin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543987647187:android:096771e09a47c715b38a26",
+        "android_client_info": {
+          "package_name": "com.example.cliente_chilin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543987647187-gm21oq8541om66818eopsm3n9dbl6g3d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cliente_chilin",
+            "certificate_hash": "d673c8797353b1bf62d6fa4e854103cedee971f0"
+          }
+        },
+        {
+          "client_id": "543987647187-4t88nsa76ui1lmn5kopv5j9rt3loerpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1tCyNfcCWbXNvs5lyhTSc48uVX8XHyB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543987647187-4t88nsa76ui1lmn5kopv5j9rt3loerpl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "543987647187-ee4smmfrlj34mp8huub9dpsg54k0nqr1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tStore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
